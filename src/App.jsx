@@ -186,7 +186,7 @@ export default function KaelaPDPWebsite() {
             <motion.div initial={{ opacity: 0, scale: 0.92 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.9, delay: 0.15 }}>
               <Card className="hero-card">
                 <div className="portrait-card">
-                  <img src="/images/IMG_4325.jpeg" alt="Travel and life design" />
+                  <img src="/images/IMG_5136.jpeg" alt="Travel and life design" />
                   <div className="portrait-overlay" />
                   <div className="portrait-content">
                     <div>
